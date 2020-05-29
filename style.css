@@ -1,0 +1,58 @@
+body{
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: lightgray;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.main-heading{
+  text-align: center;
+}
+
+.navigation li{
+  display: inline;
+  padding: 50px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: aliceblue;
+}
+
+.choose-date{
+  float: left;;
+}
+
+.username{
+  text-align: end;
+}
+
+.scheduling{
+  float: left;
+  margin-top: 29px;
+  margin-left: 15px;
+}
+
+.interview-details{
+  float: left;
+}
+
+.interview-details h2{
+  margin-top: 90px;
+}
+
+table{
+  border-collapse: separate;
+  border-spacing: 50px;
+}
+
+.interview{
+  float: left;
+}
